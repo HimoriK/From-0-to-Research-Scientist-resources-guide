@@ -63,7 +63,6 @@ Most of Natural Language Processing and Machine Learning Algorithms are based on
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
 [Joe Blitzstein Harvard Probability and Statistics Course 🎥][harvard] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
-[MIT Probability Course 2011 Lecture videos 🎥][mitprob11] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
 [MIT Probability Course 2018 short videos UPDATED! 🎥][mitprob18] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆<span>☆</span></div>| ![25%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
 [Mathematics for Machine Learning Book: Chapter 6 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Natural+Language+Processing&color=ff69b4) 
  [Probabilistic Graphical Models CMU Advanced 🎥][cmuprob] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![25%](https://progress-bar.dev/25/?title=Deep+Learning) ![100%](https://progress-bar.dev/100/?title=Natural+Language+Processing&color=ff69b4) 
@@ -87,10 +86,7 @@ Resource                    | Difficulty     | Relevance
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
 [Essence of Calculus by 3Blue1Brown🎥][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
-[Single Variable Calculus MIT 2007🎥][single07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
 [Strang's Overview of Calculus🎥][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[MultiVariable Calculus MIT 2007🎥][multi07]| <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Princeton University Multivariable Calculus 2013🎥][princeton]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Calculus Book by Stewart 📘][calcbok]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![25%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 [Mathematics for Machine Learning Book: Chapter 5 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 
@@ -133,7 +129,6 @@ Resource                    | Difficulty Level
 [MIT Classic AI course taught by Prof. Patrick H. Winston 🎥][mitai]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [Stanford AI course 2018 🎥][stai18]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [California Institute of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[CMU Machine Learning 2015 10-601 🎥][cmuml2015]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [CMU Statistical Machine Learning 10-702 🎥][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Information Theory, Pattern Recognition ML course 2012 🎥][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Large Scale Machine Learning Toronto University 2015 🎥][toronto2015]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
@@ -259,9 +254,7 @@ Paper                    | Comment
 [cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
 [stanfordopti]: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 [calcbok]: http://index-of.co.uk/Mathematics/Calculus%20-%20J.%20Stewart.pdf
-[multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
 [strangcalc]: https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318
-[single07]: https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1
 [matrixmethods]: https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 [bluecal]: https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x
 [probBook]: http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf
