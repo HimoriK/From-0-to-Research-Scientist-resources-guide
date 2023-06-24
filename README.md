@@ -43,13 +43,11 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
-[MIT Gilbert Strang 2005 Linear Algebra 🎥][gilbertStrang] | <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine+Learning+Algorithms&color=000000) ![75%](https://progress-bar.dev/75/?title=Computer+Vision&color=ff0101)
 [Linear Algebra 4th Edition by Friedberg 📘][Friedberg] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
 [Mathematics for Machine Learning Book: Chapter 2 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000)
-[James Hamblin Awesome Lecture Series 🎥][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
-[Matrix Methods for Linear Algebra for Gilber Strang UPDATED! 🎥][matrixmethods] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>|  ![100%](https://progress-bar.dev/100/?title=Deep+Learning)
+[James Hamblin Awesome Lecture Series 🎥][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) pretty cool book
+[3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) introduction to linear algebra
+[Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) beginner level, not necessary
   <!--END_SECTION:activity-->
 
 </details>
@@ -151,13 +149,9 @@ Resource                    | Difficulty Level
 [patternML]:http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 [eesl]: https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 [fullmmlbook]: https://mml-book.com/
-[ubc2013]:https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
 [mitfallslt]: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
 [Mitaspects]: https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx
-[toronto2015]:https://video-archive.fields.utoronto.ca/view/2800
 [PR2012]: http://videolectures.net/course_information_theory_pattern_recognition/
-[cmu702]: https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r
-[cmuml2015]: http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
 [caltldc]: https://work.caltech.edu/lectures.html
 [cs188]: https://inst.eecs.berkeley.edu/~cs188/fa18/
 [mitai]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/
@@ -172,23 +166,17 @@ Resource                    | Difficulty Level
 [Deep Learning Book by Ian Goodfellow 📚][Ian] |![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [UCL DeepMind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Advanced Talks by Deep Learning Pioneers 🎥][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Stanford Autumn 2018 Deep Learning Lectures 🎥][18standeep] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [CMU Deep Learning course 2020 🎥][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Stanford Convolutional Neural Network 2017 🎥][stanfcnn] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Oxford Deep Learning Awesome Lectures 2015 🎥][oxforddeep] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Stanford NLP with Deep Learning 2019 🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Advanced Deep Learning UCL 2017 course + Reinforcement Learning 🎥][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning UC Berkley 2020 Course 🎥][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [NYU Deep Learning with Pytorch hands on 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Classic Jeoffrey Hinton Old course OUTDATED 🎥][jeoff] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Pieter Abdeel Deep Unsupervised Learning 🎥][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Hugo Larochelle Deep Learning series 🎥][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Deep Learning Book Explanation Series 🎥][deepbookexp] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Fast.ai Practical Deep Learning 🎥][fast1] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Fast.ai Deep Learning From Foundations 🎥][fast2] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Deep Learning with Python (Keras Author) 📚][keras] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 --------------------------------------------------------------------------------  
 
@@ -242,22 +230,13 @@ Paper                    | Comment
 [manninginformationr]: https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf
 [fsnlp]: https://github.com/shivamms/books/blob/master/nlp/Foundations%20of%20Statistical%20Natural%20Language%20Processing%20-%20Christopher%20D.%20Manning.pdf
 [jurafskybook]: https://web.stanford.edu/~jurafsky/slp3/
-[jurafskynlp]: https://www.youtube.com/watch?v=zQ6gzQ5YZ8o&list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ
-[cmunlp2021]: https://www.youtube.com/watch?v=vnx6M7N-ggs&list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV
-[stanfordnlu]: https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
-[michigannlp]:https://www.youtube.com/watch?v=n25JjoixM3I&list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR 
 [oxfordnlp]: https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm
 [courseraRL]: https://www.coursera.org/specializations/reinforcement-learning
 [sergie2020rl]: https://www.youtube.com/watch?v=JHrlF10v2Og&list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
-[cs885]: https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc
 [ucb2018rl]: https://www.youtube.com/watch?v=ue9aS17d5iI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=2
-[cs330]: https://www.youtube.com/watch?v=0rZtSwNOTQo&list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
-[cs234]: https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u
 [dsIntrodu]: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 [rlbook]: http://incompleteideas.net/book/RLbook2020.pdf
 [Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
-[fast2]: https://course19.fast.ai/part2
-[fast1]: https://course.fast.ai/
 [abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
 [durham]: https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57
 [deepbookexp]: https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
@@ -280,7 +259,6 @@ Paper                    | Comment
 [cmuadvopti]: https://www.youtube.com/watch?v=yBO4E1FARaA&list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d
 [stanfordopti]: https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622
 [calcbok]: http://index-of.co.uk/Mathematics/Calculus%20-%20J.%20Stewart.pdf
-[princeton]: https://www.youtube.com/watch?v=uDByROsGzuk&list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28
 [multi07]: https://www.youtube.com/watch?v=PxCxlsl_YwY&list=PL4C4C8A7D06566F38
 [strangcalc]: https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318
 [single07]: https://www.youtube.com/watch?v=7K1sB05pE0A&list=PL590CCC2BC5AF3BC1
@@ -289,12 +267,8 @@ Paper                    | Comment
 [probBook]: http://www.seyedkalali.com/wp-content/uploads/2016/11/A-First-Course-in-Probability-8th-ed.-Sheldon-Ross.pdf
 [stanfordprobgraph]: https://www.youtube.com/watch?v=GqMzbbaN6T4&list=PLzERW_Obpmv-_TkPEmCyzaJUGHtl7S01i
 [cmuprob]: https://www.youtube.com/watch?v=oqvdH_8lmCA&list=PLoZgVqqHOumTqxIhcdcpOAJOOimrRCGZn
-[mitprob18]: https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6
-[mitprob11]: https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8
-[harvard]: https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 [MMLLA]: https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3
 [3blue]: https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-[gilbertStrang]: https://www.youtube.com/watch?v=QVKj3LADCnA&list=PL49CF3715CB9EF31D
 [Friedberg]: https://www.academia.edu/43200796/Linear_Algebra
 [mmlbook]: https://mml-book.github.io/book/mml-book.pdf
 [James_Hamblin]: https://www.youtube.com/watch?v=HAoL5fPmgrw&list=PLNr8B4XHL5kGDHOrU4IeI6QNuZHur4F86
