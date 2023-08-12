@@ -113,26 +113,17 @@ Resource                    | Difficulty     | Relevance
 
 ## Machine Learning
 
-Considered a fancy name for Statistical models where its main goal is to learn from data for several usages. It is considered highly recommended to master these statistical techniques before Research as most of research is inspired by most of the Algorithms.
+Considered a fancy name for statistical models where its main goal is to learn from data for several applications. It is inspired by statistical algorithms.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [Mathematics for Machine Learning Part 2 📚][fullmmlbook] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Pattern Recognition and Machine Leanring📚][patternML]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Elements of Statistical Learning 📚][eesl]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Introduction to Statistical Learning  📚][introSL]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [Machine Learning: A Probabilistic Perspective 📚][murphyml]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Berkley CS188 Introduction to AI course 🎥][cs188]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[MIT Classic AI course taught by Prof. Patrick H. Winston 🎥][mitai]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[Berkley CS188 Intro to AI course 🎥][cs188]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) ok
 [Stanford AI course 2018 🎥][stai18]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[California Institute of Technology Learning from Data course 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[CMU Statistical Machine Learning 10-702 🎥][cmu702]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Information Theory, Pattern Recognition ML course 2012 🎥][PR2012]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Large Scale Machine Learning Toronto University 2015 🎥][toronto2015]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Algorithmic Aspects of Machine Learning MIT 🎥][Mitaspects]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[MIT Course 9.520 - Statistical Learning Theory and Applications, Fall 2015 🎥][mitfallslt]|![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Undergraduate Machine Learning Course University of British Columbia 2013 🎥][ubc2013]|![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-
+[CalTech AI Intro Course 2012 🎥][caltldc]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg) old but good, teacher seems competent.
 
 -------------------------------------------------------------------------------- 
 
@@ -143,7 +134,6 @@ Resource                    | Difficulty Level
 [fullmmlbook]: https://mml-book.com/
 [mitfallslt]: https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
 [Mitaspects]: https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx
-[PR2012]: http://videolectures.net/course_information_theory_pattern_recognition/
 [caltldc]: https://work.caltech.edu/lectures.html
 [cs188]: https://inst.eecs.berkeley.edu/~cs188/fa18/
 [mitai]: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/
@@ -151,69 +141,43 @@ Resource                    | Difficulty Level
 
 ## Deep Learning 
 
-One of the major breakthroughs in the field of intersection between Artificial Intelligence and Computer Science. It lead to countless advances in technology and considered the standard way to do Artificial Intelligence.
+One of the major breakthroughs in the field of intersection between AI and CS. It led to countless advances in technology and is now at it's forefront.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
-[Deep Learning Book by Ian Goodfellow 📚][Ian] |![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [UCL DeepMind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Advanced Talks by Deep Learning Pioneers 🎥][talkie] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
 [CMU Deep Learning course 2020 🎥][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Stanford NLP with Deep Learning 2019 🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [Advanced Deep Learning UCL 2017 course + Reinforcement Learning 🎥][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning UC Berkley 2020 Course 🎥][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[NYU Deep Learning with Pytorch hands on 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Pieter Abdeel Deep Unsupervised Learning 🎥][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Hugo Larochelle Deep Learning series 🎥][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Deep Learning Book Explanation Series 🎥][deepbookexp] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Deep Learning with Python (Keras Author) 📚][keras] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
+[NYU Deep Learning with Pytorch 2022 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg) ok, has some good resources/tips
+[Pieter Abdeel Deep Unsupervised Learning 🎥][abdeeladv] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg) ok, 3 hr videos
+[Hugo Larochelle Deep Learning series 🎥][hugodeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) good but old, bite sized videos
+[Deep Learning Introduction by Durham University 🎥][Durham] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) current, seems good 
+
 --------------------------------------------------------------------------------  
 
 ## Reinforcement Learning 
 
-It is a sub-field of AI which focuses on learning by observation/rewards. 
+It is a sub-field of AI which focuses on learning by a reward system.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [Introduction to Reinforcement Learning 📚][rlbook] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Stanford 2018 cs234 Reinforcement Learning🎥 ][cs234] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Stanford 2019 cs330 Meta Learning advanced course 🎥][cs330] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Sergie Levine 2018 UC Berkley Lecture Videos 🎥][ucb2018rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Waterloo cs885 Reinforcement Learning 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Reinforcement Learning Specialization Coursera GOLDEN courses🎥 (Though it is not free but you can apply for financial aid)][courseraRL] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 
 --------------------------------------------------------------------------------  
 
 ## Natural Language Processing
 
-It is a sub-field of AI which focuses on the interpretation of Human Language. 
+A sub-field of AI which focuses on interpretation of Human Language. 
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [Jurafsky Speech and Language Processing 📚][jurafskybook]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Christopher Manning Foundations of Statistical NLP📚][fsnlp]| ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Christopher Manning Introduction to Information Retrieval📚][manninginformationr]| ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[cs224n Natural Language Processing with Deep Learning GOLDEN 2019🎥][stanfordnlp2019] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Oxford Natural Language Processing with Deep Learning 2017🎥][oxfordnlp] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Michigan Introduction to NLP🎥][michigannlp]  | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[cs224u Natural Language Understanding 2019 🎥][stanfordnlu] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[cmu 2021 Neural Nets for NLP 2021🎥][cmunlp2021]|![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[Jurafsky and Manning Introduction to Natural Language Processing🎥][jurafskynlp]| ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-
-### Must Read NLP Papers:
-In this section, I am going to list the most influential papers that help people who want to dig deeper into the research world of NLP to catch up.
-Paper                    | Comment
-------------------------- | ---------------
-# TODO
-
-
-
-
 
 
 
@@ -228,13 +192,11 @@ Paper                    | Comment
 [ucb2018rl]: https://www.youtube.com/watch?v=ue9aS17d5iI&list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37&index=2
 [dsIntrodu]: https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 [rlbook]: http://incompleteideas.net/book/RLbook2020.pdf
-[Ian]: https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf
 [abdeeladv]: https://www.youtube.com/watch?v=V9Roouqfu-M&list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP
-[durham]: https://www.youtube.com/watch?v=s2uXPz3wyCk&list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57
-[deepbookexp]: https://www.youtube.com/watch?v=vi7lACKOUao&list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b
+[durham]: https://youtu.be/s2uXPz3wyCk?list=PLMsTLcO6etti_SObSLvk9ZNvoS_0yia57&t=67
 [hugodeep]: https://www.youtube.com/watch?v=SGZ6BttHMPw&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 [jeoff]: https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
-[DeepPy]: https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+[DeepPy]: https://youtu.be/QwZQrxIk6Dg?list=PLLHTzKZzVU9d_3TcHbyiAjl5qCbpJR-o0&t=586
 [berkley2020]: https://www.youtube.com/watch?v=Va8WWRfw7Og&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW
 [ucladvrein]: https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 [alideep]: https://www.youtube.com/watch?v=fyAZszlPphs&list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE
