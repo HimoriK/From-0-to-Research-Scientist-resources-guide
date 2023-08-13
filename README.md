@@ -27,6 +27,8 @@ Resource                    | Difficulty     | Relevance
 [James Hamblin Awesome Lecture Series 🎥][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) good videos, mid pace
 [3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) introduction to linear algebra (literally the best series)
 [Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) beginner level, not necessary (good though)
+[https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=1](LLM Bootcamp 2023) | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%]
+[https://d2l.ai/chapter_introduction/index.html](Dive Into Deep Learning 📘) | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) 
   <!--END_SECTION:activity-->
 
 </details>
@@ -41,7 +43,7 @@ Resource                    | Difficulty     | Relevance
 Most of Natural Language Processing and Machine Learning algorithms are based on Probability theory.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
- [Joe Blitzstein Harvard Professor Probability Awesome Book 📘][harvBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
+ [Joe Blitzstein Harvard Professor Probability Awesome Book 📘][harvBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) [Advanced Statistics in Research: Understanding Data Analysis 📘](https://www.amazon.com/Advanced-Statistics-Research-Understanding-Analysis/dp/0985867000/ref=cm_cr_arp_d_product_top?ie=UTF8) | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000)
   <!--END_SECTION:activity-->
 
 </details>
@@ -138,7 +140,7 @@ Resource                    | Difficulty Level
 ------------------------- | ---------------
 [Introduction to Reinforcement Learning 📚][rlbook] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Waterloo cs885 Reinforcement Learning 🎥][cs885] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Waterloo cs885 Reinforcement Learning 🎥](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc&index=1) | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 [Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
 
 --------------------------------------------------------------------------------  
