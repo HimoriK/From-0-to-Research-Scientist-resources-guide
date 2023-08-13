@@ -1,23 +1,3 @@
-<div align="center">
-
-  <img src="sources/images/nlp.png" width="25%"> 
-    
-
-
-
-  
-  **<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="29px">From Zero to Research Scientist full resources guide. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">**
-  
-  
-  ![Full Guide](https://img.shields.io/badge/FullAI-Guide-brightgreen.svg)
-  ![Version 0.0.1](https://img.shields.io/badge/Version-0.0.1-blue.svg)
-</div>
-
-## Guide description
-This guide is designated to anybody with basic programming knowledge or a computer science background interested in becoming a Research Scientist with :dart: on Deep Learning and NLP.
-
-You can go Bottom-Up or Top-Down both works well and it is actually crucial to know which approach suites you the best. If you are okay with studying lots of mathematical concepts without application then use Bottom-Up. If you want to go hands-on first then use the Top-Down first.
-
 ## Contents:
 - [Mathematical Foundation](#Mathematical-Foundations)
    - [Linear Algebra](#Linear-Algebra) 
@@ -30,7 +10,7 @@ You can go Bottom-Up or Top-Down both works well and it is actually crucial to k
 - [Natural Language Processing](#Natural-Language-Processing)
 
 ## Mathematical Foundations:
-The Mathematical Foundation part is for all Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision and so on. AI is heavily math-theory based so a solid foundation is essential.
+Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision etc. AI is math heavy.
 
 ### Linear Algebra 
 
@@ -39,7 +19,7 @@ The Mathematical Foundation part is for all Artificial Intelligence branches suc
   
 <!--START_SECTION:activity-->  
 
-  This branch of Math is crucial for understanding the mechanism of Neural Networks which are the norm for NLP methodologies in nowadays State-of-The-Art.
+  This branch of Math is crucial for understanding Neural Networks and NLP.
 
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
@@ -58,7 +38,7 @@ Resource                    | Difficulty     | Relevance
   
 <!--START_SECTION:activity-->  
 
-Most of Natural Language Processing and Machine Learning Algorithms are based on Probability theory. So this branch is extremely important for grasping how old methods work.
+Most of Natural Language Processing and Machine Learning algorithms are based on Probability theory.
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | -------------------------------
  [Joe Blitzstein Harvard Professor Probability Awesome Book 📘][harvBook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
@@ -105,7 +85,7 @@ Resource                    | Difficulty     | Relevance
 
 ## Machine Learning
 
-Considered a fancy name for statistical models where its main goal is to learn from data for several applications. It is inspired by statistical algorithms.
+Considered a fancy name for statistical models where its main goal is to learn from data for several applications. It is inspired by many algorithms.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
@@ -133,7 +113,7 @@ Resource                    | Difficulty Level
 
 ## Deep Learning 
 
-One of the major breakthroughs in the field of intersection between AI and CS. It led to countless advances in technology and is now at it's forefront.
+Major breakthroughs in AI and CS. It is now at it's forefront.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
