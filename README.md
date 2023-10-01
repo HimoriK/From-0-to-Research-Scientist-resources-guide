@@ -26,7 +26,7 @@ Resource                    | Difficulty     | Relevance
 [Mathematics for Machine Learning Book: Chapter 2 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000)
 [James Hamblin Awesome Lecture Series 🎥][James_Hamblin] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) good videos, mid pace
 [3Blue1Brown Essence of Linear Algebra 🎥][3blue] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![25%](https://progress-bar.dev/25/?title=Machine+Learning+Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) introduction to linear algebra (literally the best series)
-[Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) beginner level, not necessary (good though)
+[Mathematics For Machine Learning Specialization: Linear Algebra 🎥][MMLLA] | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) ![100%](https://progress-bar.dev/100/?title=Deep+Learning) beginner level, not necessary
 [LLM Bootcamp 2023](https://www.youtube.com/watch?v=twHxmU9OxDU&list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ&index=1) | <div class="star-ratings-top"><span>★</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span></div>| ![50%]
 [Dive Into Deep Learning 📘](https://d2l.ai/chapter_introduction/index.html) | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![50%](https://progress-bar.dev/50/?title=Deep+Learning) ![75%](https://progress-bar.dev/75/?title=Machine+Learning+Algorithms&color=000000) 
   <!--END_SECTION:activity-->
@@ -61,7 +61,7 @@ Resource                    | Difficulty     | Relevance
 Resource                    | Difficulty     | Relevance 
 ------------------------- | --------------- | --------------------------
 [Essence of Calculus by 3Blue1Brown🎥][bluecal]| <div class="star-ratings-top"><span>★</span><span>★</span><span>☆</span><span>☆</span><span>☆</span></div>|![75%](https://progress-bar.dev/75/?title=Deep+Learning)
-[Strang's Overview of Calculus🎥][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) good teacher (old lectures)
+[Strang's Overview of Calculus🎥][strangcalc]|<div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>★</span><span>☆</span></div>| ![100%](https://progress-bar.dev/100/?title=Deep+Learning) mid teacher (old lectures)
 [Mathematics for Machine Learning Book: Chapter 5 📘][mmlbook] | <div class="star-ratings-top"><span>★</span><span>★</span><span>★</span><span>☆</span><span>☆</span></div>| ![75%](https://progress-bar.dev/75/?title=Deep+Learning) ![50%](https://progress-bar.dev/50/?title=Machine-Learning-Algorithms&color=000000) 
 
 
@@ -140,8 +140,8 @@ Resource                    | Difficulty Level
 ------------------------- | ---------------
 [Introduction to Reinforcement Learning 📚][rlbook] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [David Silver Deep Mind Introductory Lectures 🎥][dsIntrodu] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
-[Waterloo cs885 Reinforcement Learning 🎥](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc&index=1) | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
-[Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg)
+[Waterloo cs885 Reinforcement Learning 🎥](https://www.youtube.com/watch?v=xoxz-OmcL1Q&list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc&index=1) | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg) Good
+[Sergie Levine 2020 Deep Reinforcement Learning 🎥][sergie2020rl] | ![Advanced](https://img.shields.io/badge/Level-Advanced-red.svg) Good
 
 --------------------------------------------------------------------------------  
 
