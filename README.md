@@ -10,7 +10,7 @@
 - [Natural Language Processing](#Natural-Language-Processing)
 
 ## Mathematical Foundations:
-Artificial Intelligence branches such as Machine Learning, Reinforcement Learning, Computer Vision etc. AI is math heavy.
+Artificial Intelligence branches Machine Learning, Reinforcement Learning, Computer Vision etc. AI is math heavy.
 
 ### Linear Algebra 
 
@@ -87,7 +87,7 @@ Resource                    | Difficulty     | Relevance
 
 ## Machine Learning
 
-Considered a fancy name for statistical models where its main goal is to learn from data for several applications. It is inspired by many algorithms.
+Statistical models able to learn from data and algorithms.
 
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
@@ -120,9 +120,9 @@ Major breakthroughs in AI and CS. It is now at it's forefront.
 Resource                    | Difficulty Level 
 ------------------------- | ---------------
 [UCL DeepMind Deep Learning 🎥][ucl2020] |![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
-[FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
+[FAU Deep Learning 2020 Series 🎥][fau] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) good
 [CMU Deep Learning course 2020 🎥][cmudeep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) 
-[Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
+[Deep Learning from Probability and Statistics POV 🎥][alideep] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg) good explanations
 [Advanced Deep Learning UCL 2017 course + Reinforcement Learning 🎥][ucladvrein] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg)
 [Deep Learning UC Berkley 2020 Course 🎥][berkley2020] | ![Introductory](https://img.shields.io/badge/Level-Introductory-brightgreen.svg)
 [NYU Deep Learning with Pytorch 2022 🎥][DeepPy] | ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow.svg) ok, has some good resources/tips
